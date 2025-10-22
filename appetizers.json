@@ -1,0 +1,124 @@
+{
+  "request": [
+    {
+      "id": "1",
+      "name": "Shrimp Cocktail",
+      "description": "Fresh shrimp served with tangy cocktail sauce.",
+      "imageURL": "http://localhost:3000/images/shrimp_cocktail.jpg",
+      "protein": 30,
+      "calories": 200,
+      "price": 9.99,
+      "carbs": 10
+    },
+    {
+      "id": "2",
+      "name": "Chicken Wings",
+      "description": "Crispy wings tossed in spicy buffalo sauce.",
+      "imageURL": "http://localhost:3000/images/chicken_wing.webp",
+      "protein": 25,
+      "calories": 350,
+      "price": 12.99,
+      "carbs": 15
+    },
+    {
+      "id": "3",
+      "name": "Bruschetta",
+      "description": "Grilled bread topped with fresh tomatoes and basil.",
+      "imageURL": "http://localhost:3000/images/bruschetta.jpg",
+      "protein": 6,
+      "calories": 180,
+      "price": 7.49,
+      "carbs": 22
+    },
+    {
+      "id": "4",
+      "name": "Mozzarella Sticks",
+      "description": "Golden fried mozzarella served with marinara sauce.",
+      "imageURL": "http://localhost:3000/images/mozzarella_sticks.jpeg",
+      "protein": 12,
+      "calories": 400,
+      "price": 8.99,
+      "carbs": 30
+    },
+    {
+      "id": "5",
+      "name": "Stuffed Mushrooms",
+      "description": "Mushroom caps filled with garlic cheese and herbs.",
+      "imageURL": "http://localhost:3000/images/stuffed_mushrooms.jpg",
+      "protein": 8,
+      "calories": 220,
+      "price": 9.49,
+      "carbs": 12
+    },
+    {
+      "id": "6",
+      "name": "Nachos Supreme",
+      "description": "Crispy nachos layered with cheese, jalapeños, and salsa.",
+      "imageURL": "http://localhost:3000/images/nachos_supreme.jpg",
+      "protein": 14,
+      "calories": 500,
+      "price": 11.49,
+      "carbs": 48
+    },
+    {
+      "id": "7",
+      "name": "Mini Sliders",
+      "description": "Juicy mini beef burgers with cheddar and pickles.",
+      "imageURL": "http://localhost:3000/images/mini_sliders.jpg",
+      "protein": 24,
+      "calories": 480,
+      "price": 13.99,
+      "carbs": 35
+    },
+    {
+      "id": "8",
+      "name": "Spinach Artichoke Dip",
+      "description": "Creamy spinach and artichoke dip served with chips.",
+      "imageURL": "http://localhost:3000/images/spinach_artichoke_dip.jpg",
+      "protein": 10,
+      "calories": 370,
+      "price": 10.99,
+      "carbs": 20
+    },
+    {
+      "id": "9",
+      "name": "Calamari Rings",
+      "description": "Crispy fried calamari served with lemon and aioli.",
+      "imageURL": "http://localhost:3000/images/calamari_rings.webp",
+      "protein": 18,
+      "calories": 330,
+      "price": 11.49,
+      "carbs": 14
+    },
+    {
+      "id": "10",
+      "name": "Loaded Potato Skins",
+      "description": "Crispy potato skins topped with bacon and cheese.",
+      "imageURL": "http://localhost:3000/images/loaded_potato_skins.jpg",
+      "protein": 20,
+      "calories": 450,
+      "price": 9.99,
+      "carbs": 28
+    },
+    {
+      "id": "11",
+      "name": "Garlic Breadsticks",
+      "description": "Warm breadsticks brushed with garlic butter.",
+      "imageURL": "http://localhost:3000/images/garlic_breadsticks.jpg",
+      "protein": 7,
+      "calories": 280,
+      "price": 6.49,
+      "carbs": 36
+    },
+    {
+      "id": "12",
+      "name": "Caprese Skewers",
+      "description": "Fresh mozzarella, cherry tomatoes, and basil with balsamic glaze.",
+      "imageURL": "http://localhost:3000/images/caprese_skewers.jpg",
+      "protein": 9,
+      "calories": 190,
+      "price": 8.49,
+      "carbs": 10
+    }
+  ]
+}
